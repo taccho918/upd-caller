@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Safe</string>
+    <string name="phone_hint"># of UPD</string>
+    <string name="save">Save</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="upd">Edit information</string>
+    <string name="msg">Edit message to be sent</string>
+    <string name="send">Send!</string>
+    <string name="head">Launch Floating Button</string>
+    <string name="mistake">Cancel request</string>
+
+</resources>
